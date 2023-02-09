@@ -16,11 +16,11 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) <br>
 ## 🌀 Design and Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Chrisstruong&theme=prussian&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Chrisstruong&theme=prussian&hide_border=true)<br/>
+# 🥏 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Chrisstruong&theme=prussian&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Chrisstruong&theme=prussian&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisstruong&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-# 🌐 Socials:
+# 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/swi-triettruong/) 
 
