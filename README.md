@@ -1,5 +1,4 @@
 <h1 align="center"> Hi 👋 I am Triet!</h1>
-
 <h2 align="center"> I am a Full-Stack Developer from Virginia <img src="https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_149,q_75,w_147/v1/clients/virginia/stseal_0586d586-27fc-4166-b046-616fca56a595.gif" alt="Virginia flag" width="100" border-radius="50" style="border-radius:50%"/> </h2>
 
 🦋 I am currently working on my chat app for my classmates <br>
