@@ -3,7 +3,7 @@
 
 ```diff
 @@ 🦋 I am currently working on my chat app for my classmates @@ 
-@@ 🦋 I am learning Django, Python, Sass, and Spline  @@
+@@ 🦋 I am learning Python, Django, Sass, and Spline  @@
 ```
 
 # 🥏 TECH STACK:
