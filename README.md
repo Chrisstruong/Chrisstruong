@@ -3,7 +3,7 @@
 
 ```diff
 @@ 🦋 I am adding mobile responsive for my chat app @@ 
-@@ 🦋 I am currently enhancing on my chat app for my classmates to make it live @@ 
+@@ 🦋 I am currently enhancing on my chat app for my classmates to make it live by using Socket.io @@ 
 @@ 🦋 I am learning Python, Django, Sass, and Spline  @@
 ```
 
