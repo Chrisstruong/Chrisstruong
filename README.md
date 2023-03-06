@@ -19,7 +19,6 @@
 ## 🌀 Design and Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 # 🥏 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Chrisstruong&theme=prussian&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Chrisstruong&theme=prussian&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisstruong&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
