@@ -4,7 +4,7 @@
 ```diff
 @@ 🦋 I am preparing for next Workday opportunity by reviewing JavaScript fundamentals on YouTube and FreeCodeCamp@@ 
 @@ 🦋 I am currently learning Java @@ 
-@@ 🦋 I will Python for creating a trading bot  @@
+@@ 🦋 I will learn Python for creating a trading bot  @@
 ```
 
 # 🥏 TECH STACK:
