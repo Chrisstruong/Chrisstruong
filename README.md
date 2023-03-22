@@ -2,9 +2,9 @@
 <h2 align="center"> I am a Software Engineer from Virginia <img src="https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_149,q_75,w_147/v1/clients/virginia/stseal_0586d586-27fc-4166-b046-616fca56a595.gif" alt="Virginia flag" width="100" border-radius="50" style="border-radius:50%"/> </h2>
 
 ```diff
-@@ 🦋 I am reworking my Js fundamentals by reviewing on YouTube and FreeCodeCamp for Workday next opportunity@@ 
-@@ 🦋 I am currently learning Java @@ 
-@@ 🦋 I will learn Python for creating a trading bot  @@
+@@ 🦋 I am currently learning Python @@ 
+@@ 🦋 I am working trading bot@@ 
+
 ```
 
 # 🥏 TECH STACK:
