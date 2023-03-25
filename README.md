@@ -3,7 +3,7 @@
 
 ```diff
 
-@@ 🦋 I am currently learning Python @@ 
+@@ 🦋 I am currently learning Python@@ 
 @@ 🦋 I am working trading bot@@ 
 
 ```
