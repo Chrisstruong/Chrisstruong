@@ -3,8 +3,9 @@
 
 ```diff
 
-@@ 🦋 I am currently learning Python @@ 
-@@ 🦋 I am working trading bot @@ 
+@@ 🦋 I am currently learning JavaScript @@ 
+@@ 🦋 I am working Js datastructure on structy.net@@ 
+@@ 🦋 I am working on building stock watchlist project @@ 
 
 ```
 
