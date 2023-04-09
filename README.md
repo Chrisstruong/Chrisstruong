@@ -3,9 +3,9 @@
 
 ```diff
 
-@@ 🦋 I am currently learning JavaScript@@ 
-@@ 🦋 I am working Js datastructure on structy@@ 
-@@ 🦋 I am working on building stock watchlist project@@ 
+@@ 🦋 I am currently learning JavaScript @@ 
+@@ 🦋 I am working Js datastructure on structy @@ 
+@@ 🦋 I am working on building stock watchlist project @@ 
 
 ```
 
