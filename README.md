@@ -3,7 +3,7 @@
 
 ```diff
 
-@@ 🦋 I am currently learning Python@@ 
+@@ 🦋 I am currently learning Python @@ 
 @@ 🦋 I am working Js data structure on Structy @@ 
 @@ 🦋 I am working on building stock watchlist project @@ 
 
