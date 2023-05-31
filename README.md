@@ -3,9 +3,9 @@
 
 ```diff
 
-@@ 🦋 I am currently learning Python @@ 
+@@ 🦋 I am currently learning AWS @@ 
 @@ 🦋 I am working Js data structure on Structy @@ 
-@@ 🦋 I am working on building stock watchlist project @@ 
+@@ 🦋 I am working on building online IDE @@ 
 
 ```
 
