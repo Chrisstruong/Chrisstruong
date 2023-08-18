@@ -5,7 +5,7 @@
 
 @@ 🦋 I am currently learning AWS @@ 
 @@ 🦋 I am working Js data structure on Structy @@ 
-@@ 🦋 I am working on building online IDE @@ 
+@@ 🦋 I am working on an online compiler using MERN stack, AWS, and Docker @@ 
 
 ```
 
